@@ -2,8 +2,9 @@
 
 A powerful dotfiles manager built with GNU Stow for efficient configuration management
 
-## Features
+> **Note**: This dotfiles manager is used to manage [kenanpelit/dotfiles](https://github.com/kenanpelit/dotfiles)
 
+## Features
 - 🎯 **Group-based Configuration**: Manage related dotfiles together using groups defined in `groups.conf`
 - 🔄 **Smart Symlinking**: Automated symlinking using GNU Stow
 - 📁 **Flexible Structure**: Support for both `~/.config` and home directory files
